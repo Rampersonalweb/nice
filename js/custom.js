@@ -1,7 +1,4 @@
-testing it now
-
-
-new added content
-
-
-testit for new
+$(document).ready(function(){
+	alert('testing');
+	
+})
